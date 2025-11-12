@@ -1,1 +1,1 @@
-What the package does (one paragraph).
+In this repository the information about a package is located.
