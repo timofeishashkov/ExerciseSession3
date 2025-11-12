@@ -4,6 +4,11 @@ on:
   push:
     branches: [main, master]
   pull_request:
+    paths:
+      - 'R/**'
+      - 'DESCRIPTION'
+      - 'NAMESPACE'
+      - '.github/workflows/**'
 
 name: R-CMD-check.yaml
 
