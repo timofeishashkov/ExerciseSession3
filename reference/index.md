@@ -1,0 +1,12 @@
+# Package index
+
+## All functions
+
+- [`foo()`](https://github.com/timofeishashkov/ExerciseSession3.git/reference/foo.md)
+  : Transform helper
+- [`` `%r%` ``](https://github.com/timofeishashkov/ExerciseSession3.git/reference/grapes-r-grapes.md)
+  : Compute regression coefficients
+- [`hello()`](https://github.com/timofeishashkov/ExerciseSession3.git/reference/hello.md)
+  : Say hello
+- [`snipes`](https://github.com/timofeishashkov/ExerciseSession3.git/reference/snipes.md)
+  : Snipes price data
